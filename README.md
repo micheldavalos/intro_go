@@ -7,3 +7,7 @@ Introducción a Go para la clase de Sistemas Concurrentes y Distribuidos del cic
 - Constante
 - Multiples Variables
 - Scanf, Scan, bufio.NewScanner()
+
+## Semana 02 (Condiciones/Ciclos):
+ - Condiciones if, else-if y switch en Go.
+ - Ciclos for en Go.
