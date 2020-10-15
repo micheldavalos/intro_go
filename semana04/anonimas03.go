@@ -4,10 +4,10 @@ import "fmt"
 
 func generadorPares() func() uint {
 	i := uint(0)
-	return func() (par uint) {
-		par = i
+	return func() uint {
+		var par = i
 		i += 2
-		return
+		return par
 	}
 }
 
